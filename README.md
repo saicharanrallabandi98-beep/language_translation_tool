@@ -28,15 +28,17 @@ This application allows users to translate text between multiple languages quick
 
 ## 📂 Project Structure
 
+## 📁 Project Structure
+
+```text
 Language-Translation-Tool/
-│
+├── static/
+│   ├── style.css
+│   └── script.js
+├── templates/
+│   └── index.html
 ├── app.py
 ├── requirements.txt
-├── templates/
-│ └── index.html
-├── static/
-│ ├── style.css
-│ └── script.js
 └── README.md
 
 ---
