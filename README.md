@@ -26,7 +26,6 @@ This application allows users to translate text between multiple languages quick
 
 ---
 
-## 📂 Project Structure
 
 ## 📁 Project Structure
 
@@ -42,6 +41,10 @@ Language-Translation-Tool/
 └── README.md
 
 ---
+## 🚀 Run the Project
+
+```bash
+python app.py
 
 ## ⚙️ Installation
 
